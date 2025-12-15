@@ -82,7 +82,7 @@ A full-stack trading platform demonstrating expertise in **financial data integr
 
 ```bash
 # Clone the repository
-git clone <https://github.com/Israrminhas1/technical-assessment.git>
+git clone https://github.com/Israrminhas1/technical-assessment.git
 cd technical-assessment
 
 # Install PHP dependencies
